@@ -88,7 +88,7 @@ function allGifs()  {
         imgTag.addClass('gifImage');
                 
         pTag.html('Giphy Rating: ' + rating);
-        $(pTag).appendTo(divTag)
+        $(pTag).appendTo(divTag);
         $(imgTag).appendTo(divTag);
         $('.gifsDiv').append(divTag); 
 
