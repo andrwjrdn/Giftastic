@@ -37,4 +37,9 @@ margin-top: 20px;
 font-size: 12px;
 text-align: center;
 
-};
+}
+
+.gifImage {
+    width: 200px;
+    height: 200px;
+}
